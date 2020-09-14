@@ -4,7 +4,7 @@ title: Hi! 👋
 permalink: /
 ---
 
-My name is Mathieu, I'm a software engineer currently living in San Francisco, CA and British Columbia, Canada. I grew up in France where I fell in love with computers, wine and politics; I then traveled and lived around the world for the last decade. 🌍
+My name is Mathieu, I'm a software engineer currently living in San Francisco, CA and British Columbia, Canada. I grew up in France where I fell in love with computers, wine and politics; I then traveled and lived around the world for the last 10 years. 🌍
 
 Most of my recent professional experience is focused on **iOS app development** and the *Apple* platform in general. 👨‍💻  
 I recently worked for [JUUL Labs](https://www.juul.com/) focusing on mobile apps and working with technologies such as [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) and [identity verification services](https://en.wikipedia.org/wiki/Identity_verification_service).  
