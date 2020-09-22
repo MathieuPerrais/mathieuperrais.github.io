@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: resume
 title: Résumé
 permalink: /resume/
 ---
 
-### Work in progress 👷‍♂️🛠
