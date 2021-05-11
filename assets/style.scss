@@ -17,6 +17,14 @@
 @import url('https://unpkg.com/primer/build/build.css');
 
 // Project page
+.github-component {
+  transition: box-shadow .3s;
+}
+
+.github-component:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
 .repo-language-color {
   filter: brightness(125%) !important;
   border-radius: 50%;
