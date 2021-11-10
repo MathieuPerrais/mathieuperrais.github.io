@@ -14,8 +14,4 @@ Always eager to improve lives through technology, I really appreciate the import
 
 Thanks a lot for visiting!
 
-<br/>
-
-----
-**I'm currently available for hire and actively planning my next move!** ♟ 
 
